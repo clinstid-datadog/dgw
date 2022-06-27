@@ -1,4 +1,4 @@
-module github.com/achiku/dgw
+module github.com/clinstid-datadog/dgw
 
 go 1.15
 
